@@ -1,5 +1,5 @@
 # SoftwareSecurityAndDataPrivacy
-Exercises from the course Software Security and Data Privacy. Finding Vulnerabilitys and Mitigating them.
+Exercises from the course Software Security and Data Privacy. Finding Vulnerabilitys and Mitigating them. Mainly using the OWASP top 10.
 
 ### Names
 
